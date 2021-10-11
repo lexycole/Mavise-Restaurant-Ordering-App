@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "newmavise",
-    "slug": "newmavise",
+    "name": "Mavise",
+    "slug": "Mavise",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/splashscreen.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#FFCC2A"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -21,9 +21,10 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#FFCC2A"
+      },
+      "package": "com.lexycode.marvise"
     },
     "web": {
       "favicon": "./assets/favicon.png"
