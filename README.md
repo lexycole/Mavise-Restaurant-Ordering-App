@@ -5,12 +5,12 @@
 [![Framework](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
 
-##✍️ About 
-# This mobile app📱 was designed and developed by Sowoolu-Coates Peter Sodipo (150805013)of the department of Computer Science, UNILAG.
-# Mavise restaurant is arguably the most popular restaurant in the University of Lagos with an average of over 500 students/customers taking turns to visit and buy their desired meal of choice per day. These students/customers end up joining long queues before their desired meals can be bought. These queues tend to worsen at particular hours of the day leading to some customers looking for alternative restaurants with little or no customers to get their desired meals from. The purpose of this app is to automate and improve customer experience in ordering for food at the restaurant.
+✍️ About 
+This mobile app📱 was designed and developed by Sowoolu-Coates Peter Sodipo (150805013)of the department of Computer Science, UNILAG.
+Mavise restaurant is arguably the most popular restaurant in the University of Lagos with an average of over 500 students/customers taking turns to visit and buy their desired meal of choice per day. These students/customers end up joining long queues before their desired meals can be bought. These queues tend to worsen at particular hours of the day leading to some customers looking for alternative restaurants with little or no customers to get their desired meals from. The purpose of this app is to automate and improve customer experience in ordering for food at the restaurant.
 
 
-## 📺 Demo / Features
+📺 Demo / Features
 1. Splash Screen
 <img src="https://user-images.githubusercontent.com/40228505/230892064-a35cf2c8-c6aa-4dfb-9d59-177c00fb2685.png" width="300" height="500">
 
@@ -66,4 +66,4 @@
 [Akinro Olawale](https://github.com/lexycole)
 
 # 🔖 Licence
-The project is available under the [MIT License](https://github.com/lexycole/Soul-Meet-Universe/blob/main/LICENSE).
+The project is available under the [MIT License](https://github.com/lexycole/Mavise-Restaurant-Ordering-App/blob/main/LICENSE).
